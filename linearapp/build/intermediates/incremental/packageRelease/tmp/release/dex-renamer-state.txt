@@ -1,4 +1,0 @@
-#Wed Sep 16 21:50:09 CST 2026
-base.0=/Users/lucas/Moving computing/Lab1/Lab1/linearapp/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

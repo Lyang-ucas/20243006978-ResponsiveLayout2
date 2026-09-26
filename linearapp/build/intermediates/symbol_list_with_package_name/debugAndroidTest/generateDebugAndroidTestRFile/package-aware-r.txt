@@ -1,1 +1,0 @@
-edu.practical1.linearapp.test

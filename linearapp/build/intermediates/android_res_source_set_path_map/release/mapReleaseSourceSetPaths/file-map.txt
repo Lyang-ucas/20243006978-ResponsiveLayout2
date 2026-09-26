@@ -1,8 +1,0 @@
-edu.practical1.linearapp-pngs-0 /Users/lucas/Moving computing/Lab1/Lab1/linearapp/build/generated/res/pngs/release
-edu.practical1.linearapp-updated_navigation_xml-1 /Users/lucas/Moving computing/Lab1/Lab1/linearapp/build/generated/updated_navigation_xml/release
-edu.practical1.linearapp-packageReleaseResources-2 /Users/lucas/Moving computing/Lab1/Lab1/linearapp/build/intermediates/incremental/release/packageReleaseResources/merged.dir
-edu.practical1.linearapp-packageReleaseResources-3 /Users/lucas/Moving computing/Lab1/Lab1/linearapp/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
-edu.practical1.linearapp-release-4 /Users/lucas/Moving computing/Lab1/Lab1/linearapp/build/intermediates/merged_res/release/mergeReleaseResources
-edu.practical1.linearapp-main-5 /Users/lucas/Moving computing/Lab1/Lab1/linearapp/src/main/res
-edu.practical1.linearapp-release-6 /Users/lucas/Moving computing/Lab1/Lab1/linearapp/src/release/res
-gradleHome-0 /Users/lucas/.gradle

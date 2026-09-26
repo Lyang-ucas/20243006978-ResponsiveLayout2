@@ -1,8 +1,0 @@
-edu.practical1.constraintapp-pngs-0 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/build/generated/res/pngs/release
-edu.practical1.constraintapp-updated_navigation_xml-1 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/build/generated/updated_navigation_xml/release
-edu.practical1.constraintapp-packageReleaseResources-2 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/build/intermediates/incremental/release/packageReleaseResources/merged.dir
-edu.practical1.constraintapp-packageReleaseResources-3 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
-edu.practical1.constraintapp-release-4 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/build/intermediates/merged_res/release/mergeReleaseResources
-edu.practical1.constraintapp-main-5 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/res
-edu.practical1.constraintapp-release-6 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/release/res
-gradleHome-0 /Users/lucas/.gradle

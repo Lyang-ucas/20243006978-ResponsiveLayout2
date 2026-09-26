@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.3.0" type="incidents">
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of Gradle than 9.5.0 is available: 9.8.0">
+        <fix-replace
+            description="Update to 9.8.0"
+            oldString="9.5.0"
+            replacement="9.8.0"
+            priority="0"/>
+        <location
+            file="$HOME/Moving computing  lab/Lab2/Lab2/gradle/wrapper/gradle-wrapper.properties"
+            line="3"
+            column="17"
+            startOffset="81"
+            endLine="3"
+            endColumn="80"
+            endOffset="144"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.test:core than 1.5.0 is available: 1.7.0">
+        <fix-replace
+            description="Change to 1.7.0"
+            family="Update versions"
+            oldString="1.5.0"
+            replacement="1.7.0"
+            priority="0"/>
+        <location
+            file="${:linearapp*projectDir}/build.gradle"
+            line="27"
+            column="31"
+            startOffset="577"
+            endLine="27"
+            endColumn="57"
+            endOffset="603"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.test.ext:junit than 1.1.5 is available: 1.3.0">
+        <fix-replace
+            description="Change to 1.3.0"
+            family="Update versions"
+            oldString="1.1.5"
+            replacement="1.3.0"
+            priority="0"/>
+        <location
+            file="${:linearapp*projectDir}/build.gradle"
+            line="28"
+            column="31"
+            startOffset="634"
+            endLine="28"
+            endColumn="62"
+            endOffset="665"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.test:runner than 1.5.2 is available: 1.7.0">
+        <fix-replace
+            description="Change to 1.7.0"
+            family="Update versions"
+            oldString="1.5.2"
+            replacement="1.7.0"
+            priority="0"/>
+        <location
+            file="${:linearapp*projectDir}/build.gradle"
+            line="29"
+            column="31"
+            startOffset="696"
+            endLine="29"
+            endColumn="59"
+            endOffset="724"/>
+    </incident>
+
+    <incident
+        id="DisableBaselineAlignment"
+        severity="warning"
+        message="Set `android:baselineAligned=&quot;false&quot;` on this element for better performance">
+        <fix-attribute
+            description="Set baselineAligned=&quot;false&quot;"
+            robot="true"
+            independent="true"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="baselineAligned"
+            value="false"/>
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+            line="20"
+            column="6"
+            startOffset="695"
+            endLine="20"
+            endColumn="18"
+            endOffset="707"/>
+    </incident>
+
+    <incident
+        id="NestedWeights"
+        severity="warning"
+        message="Nested weights are bad for performance">
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+            line="31"
+            column="13"
+            startOffset="1085"
+            endLine="31"
+            endColumn="38"
+            endOffset="1110"/>
+    </incident>
+
+    <incident
+        id="NestedWeights"
+        severity="warning"
+        message="Nested weights are bad for performance">
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+            line="37"
+            column="13"
+            startOffset="1272"
+            endLine="37"
+            endColumn="38"
+            endOffset="1297"/>
+    </incident>
+
+    <incident
+        id="NestedWeights"
+        severity="warning"
+        message="Nested weights are bad for performance">
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+            line="49"
+            column="17"
+            startOffset="1800"
+            endLine="49"
+            endColumn="44"
+            endOffset="1827"/>
+    </incident>
+
+    <incident
+        id="NestedWeights"
+        severity="warning"
+        message="Nested weights are bad for performance">
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+            line="57"
+            column="21"
+            startOffset="2117"
+            endLine="57"
+            endColumn="48"
+            endOffset="2144"/>
+    </incident>
+
+    <incident
+        id="NestedWeights"
+        severity="warning"
+        message="Nested weights are bad for performance">
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+            line="128"
+            column="13"
+            startOffset="4869"
+            endLine="128"
+            endColumn="40"
+            endOffset="4896"/>
+    </incident>
+
+    <incident
+        id="ButtonOrder"
+        severity="warning"
+        message="Cancel button should be on the left (was &quot;Change | Cancel&quot;, should be &quot;Cancel | Change&quot;)">
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+            line="140"
+            column="10"
+            startOffset="5416"
+            endLine="140"
+            endColumn="16"
+            endOffset="5422"/>
+    </incident>
+
+    <incident
+        id="ButtonOrder"
+        severity="warning"
+        message="Cancel button should be on the left (was &quot;Change | Cancel&quot;, should be &quot;Cancel | Change&quot;)">
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+            line="147"
+            column="18"
+            startOffset="6245"
+            endLine="147"
+            endColumn="24"
+            endOffset="6251"/>
+    </incident>
+
+    <incident
+        id="ButtonStyle"
+        severity="warning"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <fix-composite
+            description="Make borderless">
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+                    startOffset="4001"
+                    endOffset="6187"/>
+            </fix-attribute>
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarButtonStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarButtonStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+                    startOffset="4655"
+                    endOffset="5405"/>
+            </fix-attribute>
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarButtonStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarButtonStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+                    startOffset="5415"
+                    endOffset="6167"/>
+            </fix-attribute>
+        </fix-composite>
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+            line="123"
+            column="10"
+            startOffset="4656"
+            endLine="123"
+            endColumn="16"
+            endOffset="4662"/>
+    </incident>
+
+    <incident
+        id="ButtonStyle"
+        severity="warning"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <fix-composite
+            description="Make borderless">
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+                    startOffset="4713"
+                    endOffset="7144"/>
+            </fix-attribute>
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarButtonStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarButtonStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+                    startOffset="5356"
+                    endOffset="6226"/>
+            </fix-attribute>
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarButtonStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarButtonStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+                    startOffset="6244"
+                    endOffset="7116"/>
+            </fix-attribute>
+        </fix-composite>
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+            line="130"
+            column="18"
+            startOffset="5357"
+            endLine="130"
+            endColumn="24"
+            endOffset="5363"/>
+    </incident>
+
+    <incident
+        id="ButtonStyle"
+        severity="warning"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <fix-composite
+            description="Make borderless">
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+                    startOffset="4001"
+                    endOffset="6187"/>
+            </fix-attribute>
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarButtonStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarButtonStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+                    startOffset="4655"
+                    endOffset="5405"/>
+            </fix-attribute>
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarButtonStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarButtonStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+                    startOffset="5415"
+                    endOffset="6167"/>
+            </fix-attribute>
+        </fix-composite>
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp/activity_main.xml"
+            line="140"
+            column="10"
+            startOffset="5416"
+            endLine="140"
+            endColumn="16"
+            endOffset="5422"/>
+    </incident>
+
+    <incident
+        id="ButtonStyle"
+        severity="warning"
+        message="Buttons in button bars should be borderless; use `style=&quot;?android:attr/buttonBarButtonStyle&quot;` (and `?android:attr/buttonBarStyle` on the parent)">
+        <fix-composite
+            description="Make borderless">
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+                    startOffset="4713"
+                    endOffset="7144"/>
+            </fix-attribute>
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarButtonStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarButtonStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+                    startOffset="5356"
+                    endOffset="6226"/>
+            </fix-attribute>
+            <fix-attribute
+                description="Set style=&quot;?android:attr/buttonBarButtonStyle&quot;"
+                attribute="style"
+                value="?android:attr/buttonBarButtonStyle">
+                <range
+                    file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+                    startOffset="6244"
+                    endOffset="7116"/>
+            </fix-attribute>
+        </fix-composite>
+        <location
+            file="${:linearapp*debug*MAIN*sourceProvider*0*resDir*0}/layout-land/activity_main.xml"
+            line="147"
+            column="18"
+            startOffset="6245"
+            endLine="147"
+            endColumn="24"
+            endOffset="6251"/>
+    </incident>
+
+</incidents>

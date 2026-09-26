@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Responsive Layout 1 - Constraint</string>
+    <string name="lab_title">Lab 1</string>
+    <string name="layout_title">Responsive Layout 1</string>
+    <string name="word_this">This</string>
+    <string name="word_is">is</string>
+    <string name="word_my">my</string>
+    <string name="word_first">first</string>
+    <string name="application_message">Android Application</string>
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+</resources>

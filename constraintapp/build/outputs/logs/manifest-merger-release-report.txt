@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lucas/.gradle/caches/9.5.0/transforms/75fe1e625846701ab4b96459b9dfff8f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/lucas/.gradle/caches/9.5.0/transforms/8eb31b46f1dfab3a5468a5f3cf5e36c1/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/b66e67852d85b355d38cf7d20697ba89/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/lucas/.gradle/caches/9.5.0/transforms/571ceaeeece3dba129766132d878a701/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/34c3b1e18a875548ae46071e557ae1a1/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/51b65637af046fab2cb4f9e7dec2e6dd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/583bfdcff1fa7435c2c3a04e08993003/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/ea1e8f0099eae4057021c886b8a210b9/transformed/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/7a8fc8b5cb4299e105777cb6d7a4c733/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/c9b560f58189b5df3189e0e68eb82d39/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/9709655cd35776aa704f9db4da149d31/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/lucas/.gradle/caches/9.5.0/transforms/1605502d2c1f017a7736c8469ce98f85/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/b9831ab09e700ded5ce63757279ca15e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/90ae657b85adebd3476b5e93265c40e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/d74766f70a273b6d4ef1894199463265/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/610a334808799bf569eaa53917a5fb9e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/8ba584d395e45ca91b4dca1ab5c78e75/transformed/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/c48a431ab06532a12c9cb88573479f17/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/74ec5b1cabb8264b1e6cb0e3de9e5de9/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/c2c796e46cddfcb0c61edb90aaa61a5d/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/68739aad968aa3cc2c9a9bfc5b5d12e6/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:4:5-20:19
+INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:4:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lucas/.gradle/caches/9.5.0/transforms/75fe1e625846701ab4b96459b9dfff8f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lucas/.gradle/caches/9.5.0/transforms/75fe1e625846701ab4b96459b9dfff8f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/lucas/.gradle/caches/9.5.0/transforms/1605502d2c1f017a7736c8469ce98f85/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/lucas/.gradle/caches/9.5.0/transforms/1605502d2c1f017a7736c8469ce98f85/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/90ae657b85adebd3476b5e93265c40e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/90ae657b85adebd3476b5e93265c40e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/lucas/.gradle/caches/9.5.0/transforms/1605502d2c1f017a7736c8469ce98f85/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:6:9-41
+	android:roundIcon
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:7:9-50
+	android:icon
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:5:9-45
+	android:theme
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:9:9-54
+activity#edu.practical1.constraintapp.MainActivity
+ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:11:9-19:20
+	android:exported
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml
+INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lucas/.gradle/caches/9.5.0/transforms/75fe1e625846701ab4b96459b9dfff8f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lucas/.gradle/caches/9.5.0/transforms/75fe1e625846701ab4b96459b9dfff8f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/lucas/.gradle/caches/9.5.0/transforms/8eb31b46f1dfab3a5468a5f3cf5e36c1/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/lucas/.gradle/caches/9.5.0/transforms/8eb31b46f1dfab3a5468a5f3cf5e36c1/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/b66e67852d85b355d38cf7d20697ba89/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/b66e67852d85b355d38cf7d20697ba89/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/lucas/.gradle/caches/9.5.0/transforms/571ceaeeece3dba129766132d878a701/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/lucas/.gradle/caches/9.5.0/transforms/571ceaeeece3dba129766132d878a701/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/34c3b1e18a875548ae46071e557ae1a1/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/34c3b1e18a875548ae46071e557ae1a1/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/51b65637af046fab2cb4f9e7dec2e6dd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/51b65637af046fab2cb4f9e7dec2e6dd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/583bfdcff1fa7435c2c3a04e08993003/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/583bfdcff1fa7435c2c3a04e08993003/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/ea1e8f0099eae4057021c886b8a210b9/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/ea1e8f0099eae4057021c886b8a210b9/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/7a8fc8b5cb4299e105777cb6d7a4c733/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/7a8fc8b5cb4299e105777cb6d7a4c733/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/c9b560f58189b5df3189e0e68eb82d39/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/c9b560f58189b5df3189e0e68eb82d39/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/9709655cd35776aa704f9db4da149d31/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/9709655cd35776aa704f9db4da149d31/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/lucas/.gradle/caches/9.5.0/transforms/1605502d2c1f017a7736c8469ce98f85/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/lucas/.gradle/caches/9.5.0/transforms/1605502d2c1f017a7736c8469ce98f85/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/b9831ab09e700ded5ce63757279ca15e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/b9831ab09e700ded5ce63757279ca15e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/90ae657b85adebd3476b5e93265c40e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/90ae657b85adebd3476b5e93265c40e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/d74766f70a273b6d4ef1894199463265/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/d74766f70a273b6d4ef1894199463265/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/610a334808799bf569eaa53917a5fb9e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/lucas/.gradle/caches/9.5.0/transforms/610a334808799bf569eaa53917a5fb9e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/8ba584d395e45ca91b4dca1ab5c78e75/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/8ba584d395e45ca91b4dca1ab5c78e75/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/c48a431ab06532a12c9cb88573479f17/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/c48a431ab06532a12c9cb88573479f17/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/74ec5b1cabb8264b1e6cb0e3de9e5de9/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/74ec5b1cabb8264b1e6cb0e3de9e5de9/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/c2c796e46cddfcb0c61edb90aaa61a5d/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/c2c796e46cddfcb0c61edb90aaa61a5d/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/68739aad968aa3cc2c9a9bfc5b5d12e6/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lucas/.gradle/caches/9.5.0/transforms/68739aad968aa3cc2c9a9bfc5b5d12e6/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/src/main/AndroidManifest.xml

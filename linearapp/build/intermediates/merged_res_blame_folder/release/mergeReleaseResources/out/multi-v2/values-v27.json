@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "edu.practical1.linearapp-mergeReleaseResources-1:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "/Users/lucas/Moving computing/Lab1/Lab1/linearapp/src/main/res/values-v27/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "689"
+                    }
+                }
+            ]
+        }
+    ]
+}

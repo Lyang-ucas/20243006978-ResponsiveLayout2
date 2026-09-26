@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.3.0" type="partial_results">
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="id[root(R),word_this(R),word_is(R),word_my(R),word_first(R),change_button(R),cancel_button(R)];;;;"/>
+    </map>
+
+</incidents>

@@ -1,0 +1,5 @@
+edu.practical1.constraintapp.test.constraintapp-updated_navigation_xml-0 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/build/generated/updated_navigation_xml/debugAndroidTest
+edu.practical1.constraintapp.test.constraintapp-packageDebugAndroidTestResources-1 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/merged.dir
+edu.practical1.constraintapp.test.constraintapp-packageDebugAndroidTestResources-2 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/stripped.dir
+edu.practical1.constraintapp.test.constraintapp-debugAndroidTest-3 /Users/lucas/Moving computing/Lab1/Lab1/constraintapp/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+gradleHome-0 /Users/lucas/.gradle

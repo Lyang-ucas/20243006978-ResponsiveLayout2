@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_panel">#FFFF1010</color>
+    <color name="blue_panel">#FF1717F7</color>
+    <color name="purple_panel">#FF6A3FC5</color>
+    <color name="yellow_panel">#FFFFFF00</color>
+    <color name="button_purple">#FF6B4CBF</color>
+    <color name="button_purple_pressed">#FF503593</color>
+    <color name="system_bar_surface">#FFFDF7FF</color>
+</resources>
+

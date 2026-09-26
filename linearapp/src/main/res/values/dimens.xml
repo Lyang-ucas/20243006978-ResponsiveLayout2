@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="content_margin">8dp</dimen>
+    <dimen name="button_gap_half">6dp</dimen>
+    <dimen name="button_vertical_margin">4dp</dimen>
+    <dimen name="button_min_height">48dp</dimen>
+    <dimen name="button_corner_radius">28dp</dimen>
+    <dimen name="button_horizontal_padding">12dp</dimen>
+    <dimen name="text_size_header">16sp</dimen>
+    <dimen name="text_size_title">17sp</dimen>
+    <dimen name="text_size_panel">16sp</dimen>
+    <dimen name="text_size_body">16sp</dimen>
+    <dimen name="text_size_button">14sp</dimen>
+</resources>
+
